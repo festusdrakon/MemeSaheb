@@ -1,2 +1,2 @@
 # MemeSaheb
-Here lies code for our Deep Nerual Net based Humourous Caption Generation System
+sample toy code for the cascaded CNN + LSTM meme caption generation system 
