@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Meme Saheb is a [fast.ai](https://fast.ai) powered tool to generate original meme captions for a meme template. This is done via deep learning using architectures specialized for use in natural language processing and computer vision.
+"When your friends don't think you're funny enough, so you train AI to write your captions for you." 
+
+Meme Saheb is a [fast.ai](https://fast.ai) powered project to generate original meme captions for a specific meme template. This is done via deep learning using architectures specialized for use in natural language processing and computer vision.
 
   - Independent and extensive dataset
   - Easy to set up
